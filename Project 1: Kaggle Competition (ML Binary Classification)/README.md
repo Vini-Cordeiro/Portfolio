@@ -9,6 +9,7 @@ Model Development: Building and training machine learning models.
 Model Evaluation: Assessing model performance and making improvements.
 
 Highlights:
+
 Feature Engineering: Significant improvements in model performance were achieved through advanced feature engineering techniques, including the creation of new features and transformation of existing ones.
 Model Choice: Used ensemble techniques with stacking to improve predictive accuracy.
 This project demonstrates a comprehensive approach to solving data science problems and showcases the application of various methodologies and techniques.
