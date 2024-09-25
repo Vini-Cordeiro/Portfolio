@@ -13,11 +13,11 @@ This project focuses on the Kaggle competition involving the prediction of House
 
 - **Feature Importance**: Selected three different machine learning algorithms to choose features for the final model development, using feature importance methods.
 - **Model Choice**: Used ensemble techniques with stacking to improve predictive accuracy, with the followings machine learning algoritghms:
- - Lasso
- - ElasticNet
- - SRV
- - GBoost
- - XGBoost
- - CatBoost
+  - Lasso
+  - ElasticNet
+  - SRV
+  - GBoost
+  - XGBoost
+  - CatBoost
 
 This project demonstrates a comprehensive approach to solving data science problems and showcases the application of various methodologies and techniques.
