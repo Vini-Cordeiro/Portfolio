@@ -1,4 +1,4 @@
-# Titanic Dataset Kaggle Competition
+# Titanic Dataset - Kaggle Competition
 
 This project focuses on the Kaggle competition involving the Titanic dataset and includes all the steps in the data science process, such as:
 
