@@ -1,4 +1,4 @@
-# House Prices Dataset Kaggle Competition
+# House Prices Dataset - Kaggle Competition
 
 This project focuses on the Kaggle competition involving the prediction of House Prices dataset and includes all the steps in the data science process, such as:
 
